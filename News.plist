@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://edeka-pushapp-d.s3.amazonaws.com/News_v1.0.0.ipa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4RFIF5333JV3FEKH%2F20210726%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210726T115940Z&amp;X-Amz-Expires=31536000&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a679f03000d461430c86aa8e9f59a3f82ee908fe03a4b22cafcb3ae6e622ba84</string>
+                    <string>https://edeka-pushapp-d.s3.amazonaws.com/News_v1.0.0.ipa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4RFIF5333JV3FEKH%2F20210726%2Feu-central-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210726T123346Z&amp;X-Amz-Expires=604800&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4df9e17df4863b948990f777bc1da4ec3d51452b14b9aecd27d0ca78bad3a3d1</string>
                 </dict>
             </array>
             <key>metadata</key>
